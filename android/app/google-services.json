@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "734959557446",
+    "firebase_url": "https://product-db-e82da-default-rtdb.firebaseio.com",
+    "project_id": "product-db-e82da",
+    "storage_bucket": "product-db-e82da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734959557446:android:7d424c701ab0c08fed2347",
+        "android_client_info": {
+          "package_name": "com.example.product"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9k_bKolBZU6hCUfHGAt1ZxfbKvZQXJPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
